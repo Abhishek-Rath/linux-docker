@@ -27,3 +27,21 @@
 /root # root users home directory
 
 ```
+
+# Commands
+
+
+
+```bash 
+cd # change directory
+pwd # present working directory
+ls # list files or directories
+
+# get release info of th operating system
+lsb_modules -a
+cat /etc/os-release # gives info about OS
+uname -a # writes standard output name of the operating system
+lscpu # lists cpu info such as cores, threads, sockets etc
+lsmem  # lists memory info
+
+```
